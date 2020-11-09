@@ -5,5 +5,5 @@ class Player
     @name = name
     @lives = 3
   end
-  
+
 end
